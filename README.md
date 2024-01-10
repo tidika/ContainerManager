@@ -1,2 +1,2 @@
 # ContainerManager
-Repo facilitates the management of containerized services/apps.
+Repo code facilitates the management of containerized services/apps.
